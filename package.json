@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Tsuyoshi84/Tsuyoshi84.github.io/issues"
   },
-  "homepage": "https://github.com/Tsuyoshi84/Tsuyoshi84.github.io#readme"
+  "homepage": "https://github.com/Tsuyoshi84/Tsuyoshi84.github.io#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
